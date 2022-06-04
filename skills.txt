@@ -1,0 +1,8 @@
+1)Terminal
+2)GIT
+3)Python
+4)SQL
+5)Postman
+6)Charles
+7)Fiddler
+8)QA
